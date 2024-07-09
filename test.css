@@ -1,4 +1,5 @@
 body{background-color: beige;
+    text-align: center;
 }
 h1{
     font-size: 30px;
@@ -7,6 +8,7 @@ h1{
 h2{
     color: rebeccapurple;
     font-size: 40px;
+    background-color: aqua;
 }
 .big{
     font-size: 60px;
@@ -20,3 +22,9 @@ h2{
 span{color: cadetblue;
 font-size: 80px;
 font-family: Georgia, 'Times New Roman', Times, serif;}
+.title{
+    text-align: center;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chartreuse;
+}
